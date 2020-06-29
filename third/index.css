@@ -1,0 +1,49 @@
+#grey {
+    background-color: darkgrey;
+    height: 100px;
+    width: 100vw;
+}
+
+#box {
+    background-color: blue;
+    height: 80px;
+    width: 80px;  
+    position: relative;
+    top: 10px;
+    left: 20px
+}
+
+#white {
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+p {
+    color: rgb(100, 100, 100);
+    font-size: 27px;
+    font-family: sans-serif;
+    width: 80vw
+     
+}
+
+#blue {
+    background-color: rgb(90, 90, 253);
+    height: 110px;
+}
+
+#indigo {
+    background-color: turquoise;
+    height: 110px;
+}
+
+#green {
+    background-color: rgb(159, 255, 80);
+    height: 110px;
+}
+
+#yellow {
+    background-color: yellow;
+    height: 110px;
+}
